@@ -16,7 +16,7 @@ depositing money, and withdrawing money using C language.
 - Conditional statements
 
 ## How to Run
-gcc atm.c -o atm
+gcc ATM.c -o atm
 ./atm
 
 ## Author
